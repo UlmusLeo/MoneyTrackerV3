@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+  
+    <dimen name="padding_nano">2dp</dimen>
+    <dimen name="padding_med">5dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_xlarge">24dp</dimen>
+    <dimen name="max_name_width">190dp</dimen>
+    <dimen name="min_box_size">50dp</dimen>
+    
+    
+</resources>

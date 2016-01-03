@@ -1,0 +1,12 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/playstore
+/app/build
+/app/crashlytics.properties
+/app/app-release.apk
+/app/src/androidTest

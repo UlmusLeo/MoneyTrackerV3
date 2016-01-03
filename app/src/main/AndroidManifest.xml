@@ -1,0 +1,28 @@
+<?xml version="1.1" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ulmus.moneytracker" >
+
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_v3"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.ulmus.moneytracker.People"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="com.crashlytics.ApiKey"
+            android:value="1042351b20d367742ac29d0c7335f8a595010549" />
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>

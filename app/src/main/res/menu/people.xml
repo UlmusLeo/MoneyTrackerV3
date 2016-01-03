@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.jlu.moneytracker.People">
+
+    <item
+        android:id="@+id/action_new"
+       	android:icon="@drawable/ic_action_new_light"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="@string/action_new"/>
+
+</menu>

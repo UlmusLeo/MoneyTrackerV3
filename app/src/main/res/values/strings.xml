@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tabs</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new">Add New</string>
+    <string name="who_hint">Who</string>
+    <string name="money_direction">Direction</string>
+    <string name="amount_hint">Amount</string>
+    <string name="i_owe_you">I Owe</string>
+    <string name="you_owe_me">They Owe</string>
+    <string name="note_hint">Note</string>
+    <string name="quick_amount">Quick Amount</string>
+    <string name="cancel">Cancel</string>
+    
+
+
+    <string name="date">date</string>
+    <string name="edit_name">Edit Name</string>
+    <string name="edit_transaction">Edit Transaction</string>
+
+    <string name="done">Done</string>
+    <string name="delete">Delete</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="remove_individual_warning">Remove all records of this person?</string>
+    <string name="remove_transaction_warning">Remove this transaction?</string>
+    <string name="i_paid">I paid</string>
+    <string name="they_paid">They paid</string>
+    <string name="no_people">No one has been added to your list yet. To get started press the + button.</string>
+    <string name="long_string">This is generally just a very long string to test things with. No one has been added to your list yet. To get started press the + button.</string>
+
+</resources>
